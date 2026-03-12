@@ -5,8 +5,8 @@
 ## Projetos
 
 - Todo List
-- Guessing Game
-- Image Downloader
+- autonomous mechanics 
+- Image/video Downloader
 - RPG mechanics
 - fighting mechanics (Lua)
 
