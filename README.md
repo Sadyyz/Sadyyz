@@ -1,6 +1,7 @@
 # Sady
 
 — Python | JavaScript | Lua
+<p>  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/Lua-5.4-blue?logo=lua&logoColor=white" /></p>p></p>
 
 ## Projetos
 
