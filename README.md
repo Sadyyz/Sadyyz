@@ -1,16 +1,19 @@
-## Hi there 👋
+# Sady
 
-<!--
-**Sadyyz/Sadyyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+— Python | JavaScript | Lua
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Todo List
+- Guessing Game
+- Image Downloader
+- RPG mechanics
+- fighting mechanics (Lua)
+
+## Atualmente estudando
+
+- Automação em Python
+- Desenvolvimento de jogos
+- Lua.
+
+![Espurr](https://i.imgur.com/haF7v4o.gif)
