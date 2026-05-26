@@ -1,10 +1,10 @@
-#Sady
+# Sady
 
 Backend developer student focused on Python, Flask, SQL and APIs.
 <p>  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/Lua-5.4-blue?logo=lua&logoColor=white" /></p>p></p>
 
 
-##Currently building personal projects involving:
+## Currently building personal projects involving:
 
 - RPG systems
 - Web development
@@ -12,14 +12,14 @@ Backend developer student focused on Python, Flask, SQL and APIs.
 - Automation
 - Database integration
 
-##Current Projects
+## Current Projects
 
 - Noutrora RPG
 - Noutrora Forum
 - Flask login systems
 - Database/API studies
 
-##Currently Studying
+## Currently Studying
 
 - Flask
 - SQL & Databases
@@ -28,4 +28,3 @@ Backend developer student focused on Python, Flask, SQL and APIs.
 - Web Systems Architecture
 
 - ![Espurr](https://i.imgur.com/haF7v4o.gif)
-- 
