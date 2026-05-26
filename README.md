@@ -1,20 +1,31 @@
-# Sady
+#Sady
 
-— Python | Lua
+Backend developer student focused on Python, Flask, SQL and APIs.
 <p>  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black" />  <img src="https://img.shields.io/badge/Lua-5.4-blue?logo=lua&logoColor=white" /></p>p></p>
 
-## Projetos
 
-- Todo List
-- autonomous mechanics 
-- Image/video Downloader
-- RPG mechanics
-- fighting mechanics (Lua)
+##Currently building personal projects involving:
 
-## Atualmente estudando
+- RPG systems
+- Web development
+- Backend architecture
+- Automation
+- Database integration
 
-- Automação em Python
-- Desenvolvimento de jogos
-- Lua.
+##Current Projects
 
-![Espurr](https://i.imgur.com/haF7v4o.gif)
+- Noutrora RPG
+- Noutrora Forum
+- Flask login systems
+- Database/API studies
+
+##Currently Studying
+
+- Flask
+- SQL & Databases
+- REST APIs
+- Backend Development
+- Web Systems Architecture
+
+- ![Espurr](https://i.imgur.com/haF7v4o.gif)
+- 
