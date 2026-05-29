@@ -1,7 +1,7 @@
 # Sady
 
 Backend developer student focused on Python, Flask, SQL and APIs.
-<p>  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/Lua-5.4-blue?logo=lua&logoColor=white" /></p>p></p>
+<p>  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/Lua-5.4-blue?logo=lua&logoColor=white" /></p>p>
 
 
 ## Currently building personal projects involving:
@@ -14,7 +14,7 @@ Backend developer student focused on Python, Flask, SQL and APIs.
 
 ## Current Projects
 
-- Noutrora RPG
+- Noutrora RPG https://github.com/Sadyyz/noutrora-Rpg
 - Noutrora Forum
 - Flask login systems
 - Database/API studies
