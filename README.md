@@ -24,7 +24,7 @@ Backend developer student focused on Python, Flask, SQL and APIs.
 - Flask
 - SQLITE & Databases
 - REST APIs
-- Backend Development
+- Web python backend Development
 - Web Systems Architecture
 
  ![Espurr](https://i.imgur.com/haF7v4o.gif)
